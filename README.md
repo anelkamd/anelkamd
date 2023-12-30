@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anelkamd&label=Profile%20views&color=0e75b6&style=flat" alt="anelkamd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anelkamd" alt="anelkamd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anelka_md" target="blank"><img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" /></a> </p>
 
 - 🔭 I’m currently working on [Toggle-Switch](https://github.com/anelkamd/Toggle-Switch.git)
