@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anelka_md" target="blank"><img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" /></a> </p>
 
-- 🔭 I’m currently working on [Weka Service](https://github.com/gsolutech/weka.git)
+- 🔭 I’m currently working on [Weka Service](https://github.com/anelkamd)
 
 - 🌱 I’m currently learning **Tailwindcss , JavaScript**
 
