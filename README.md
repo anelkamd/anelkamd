@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Weka Service](https://github.com/anelkamd)
 
-- 🌱 I’m currently learning **Tailwindcss , JavaScript**
+- 🌱 I’m currently learning **Tailwindcss , Vue.JS **
 
 - 📫 How to reach me **anelkamd243@gmail.com**
 
