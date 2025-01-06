@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tailwindcss , React.JS , Vue.JS , JavaScript , PHP , C#**
 
-- 📫 How to reach me **anelkamd243@gmail.com**
+- 📫 How to reach me **anelkadevs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
