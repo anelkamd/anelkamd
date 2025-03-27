@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/anelka_md" target="blank"><img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" /></a> </p>
 
-- 🔭 I’m currently working on [Kivu Event](https://github.com/anelkamd/Kivu.Event)
+- 🔭 I’m currently working on [Kivu Event](https://github.com/anelkamd/Kivu-Event-V2)
 
-- 🌱 I’m currently learning **Tailwindcss , React.JS , Vue.JS , JavaScript , PHP , C#**
+- 🌱 I’m currently learning **Tailwindcss , React.JS , Next.JS , JavaScript , PHP , C#**
 
 - 📫 How to reach me **anelkadevs@gmail.com**
 
