@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anelka</h1>
-<h3 align="center">A passionate frontend developer from DRC</h3>
+<h3 align="center">A passionate frontend developer from UG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anelkamd&label=Profile%20views&color=0e75b6&style=flat" alt="anelkamd" /> </p>
 
